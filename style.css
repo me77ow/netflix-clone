@@ -153,9 +153,7 @@ nav button{
 }
 
 .accordion {
-    /* max-width: 60px auto; */
     width: 100%;
-    /* max-width: 750px; */
 }
 
 .accordion li{
